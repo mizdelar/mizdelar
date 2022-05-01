@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @mizdelar
+- 👀 I’m interested in building Java oriented programs
+- 🌱 I’m currently learning Java
